@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 denno denno 4096 Wax 14 21:30 .
+drwxrwxr-x 6 denno denno 4096 Wax 14 18:40 ..
+-rwxrwxrwx 1 denno denno   32 Wax  9 16:25 0-hello_world
+-rwxrw-r-- 1 denno denno   29 Wax 14 19:13 1-confused_smiley
+-rwxrw-r-- 1 denno denno   28 Wax 14 19:21 2-hellofile
+-rwxrw-r-- 1 denno denno   39 Wax 14 19:26 3-twofiles
+-rwxrw-r-- 1 denno denno   29 Wax 14 19:28 4-lastlines
+-rwxrw-r-- 1 denno denno   29 Wax 14 19:31 5-firstlines
+-rwxrw-r-- 1 denno denno   40 Wax 14 19:34 6-third_line
+-rwxrw-r-- 1 denno denno   96 Wax 14 19:37 7-file
+-rwxrw-r-- 1 denno denno   36 Wax 14 21:30 8-cwd_state
+-rw-rw-r-- 1 denno denno   17 Wax 14 19:37 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 denno denno    0 Wax 14 21:30 ls_cwd_content
+-rw-rw-r-- 1 denno denno   17 Wax 14 18:42 README.md
