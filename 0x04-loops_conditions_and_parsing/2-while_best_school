@@ -4,9 +4,6 @@
 COUNTER=0
 while [ $COUNTER -lt 10 ]
 do
-    echo "Best School"
-    if(( COUNTER == 9))
-    then
-        echo "Best School \n Hi"
+    echo "Holberton School"
     let COUNTER=COUNTER+1
 done
